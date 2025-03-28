@@ -27,5 +27,5 @@ I have solid experience with Rust, C++, C, Python, Java, Javascript, Go, PHP and
 - 💻 Im currently working on my personal project: [mathoclock](https://github.com/haveheartt/mathoclock), a mobile app that keeps ringing until you solve an integral!
 - 🤡 Ask me about mathematics, programming and bad jokes.
 - 🎧 I love music, each line of code is wrote while I'm listening to mpb.
-- 📚 Currently studying real analysis, distributed systems and lagrangian mechanics. 
+- 📚 Currently studying neural network, information theory, distributed systems and some web technology. 
 ---
